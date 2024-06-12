@@ -1,101 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<product>
-    <prdStat>01</prdStat>
-    <shopNo>0000100000</shopNo>
-    <omDispNo>123456</omDispNo>
-    <prdNm>예제 상품명</prdNm>
-    <hdelvMafcEntrNm>중국현지공장</hdelvMafcEntrNm>
-    <prdOriginTp>중국</prdOriginTp>
-    <taxTp>01</taxTp>
-    <ordAgeRstrYn>N</ordAgeRstrYn>
-    <saleStatTp>01</saleStatTp>
-    <saleUnitcost>10000</saleUnitcost>
-    <saleLmtQty>100</saleLmtQty>
-    <saleStrDts>20240608</saleStrDts>
-    <saleEndDts>99991231</saleEndDts>
-    <proddelvCostUseYn>Y</proddelvCostUseYn>
-    <prdrtnCostUseYn>Y</prdrtnCostUseYn>
-    <rtndelvCost>5000</rtndelvCost>
-    <rtndelvNo>54321</rtndelvNo>
-    <mktPr>15000</mktPr>
-    <prdBasisExplanEd>이것은 예제 상품 설명입니다.</prdBasisExplanEd>
-    <zoomImg>http://example.com/image.jpg</zoomImg>
-    <prdPostfix>뒷문구</prdPostfix>
-    <prdKeywd>쇼핑태그1, 쇼핑태그2, 쇼핑태그3</prdKeywd>
-    <selOptName>선택</selOptName>
-    <optPrirTp>01</optPrirTp>
-    <prdOption></prdOption>
-    <delvCost>0</delvCost>
-    <prdDelvExctYn>N</prdDelvExctYn>
-    <delvCostDispYn>Y</delvCostDispYn>
-    <freedelvStdCnt>무료배송기준 수량</freedelvStdCnt>
-    <jejuetcDelvCostUseYn>Y</jejuetcDelvCostUseYn>
-    <jejuDelvCost>5000</jejuDelvCost>
-    <etcDelvCost>5000</etcDelvCost>
-    <delvMthd>01</delvMthd>
-    <spcaseEd></spcaseEd>
-    <ippSubmitYn>N</ippSubmitYn>
-    <originPrdNo>원상품번호</originPrdNo>
-    <asInfo>A/S정보</asInfo>
-    <detailImg>상세이미지 URL, 콤마(,)로 구분하여 최대 3개 등록</detailImg>
-    <abroadBsYn>I</abroadBsYn>
-    <medicalCertTp>0301</medicalCertTp>
-    <medicalRepOrg></medicalRepOrg>
-    <medicalRepNo></medicalRepNo>
-    <medicalPerNo></medicalPerNo>
-    <medicalRevNo></medicalRevNo>
-    <healthCertTp>0401</healthCertTp>
-    <healthRepOrg></healthRepOrg>
-    <healthRepNo></healthRepNo>
-    <healthCertDtlTp></healthCertDtlTp>
-    <healthRevNo></healthRevNo>
-    <foodCertTp>0501</foodCertTp>
-    <foodRepOrg></foodRepOrg>
-    <foodRepNo></foodRepNo>
-    <ecoCertYn>N</ecoCertYn>
-    <ecoCertTp></ecoCertTp>
-    <ecoCertOrg></ecoCertOrg>
-    <ecoCertNo></ecoCertNo>
-    <oldUseMonth></oldUseMonth>
-    <barcode></barcode>
-    <prdCertStatus>N</prdCertStatus>
-    <prdCertOptTp>01</prdCertOptTp>
-    <prdinfoNoti>
-        <info>
-            <infoSubNo>항목코드</infoSubNo>
-            <infoCd>입력타입</infoCd>
-            <infoTx>입력텍스트</infoTx>
-        </info>
-    </prdinfoNoti>
-    <giftInfo></giftInfo>
-    <planTxt></planTxt>
-    <membershipTp></membershipTp>
-    <usimTp></usimTp>
-    <entrDcUseYn>N</entrDcUseYn>
-    <entrDcTp></entrDcTp>
-    <entrDcNum></entrDcNum>
-    <entrDcStrDt></entrDcStrDt>
-    <entrDcEndDt></entrDcEndDt>
-    <delvAttbt>01</delvAttbt>
-    <installCostYn>N</installCostYn>
-    <customMadeYn>N</customMadeYn>
-    <stdDelvwhDt>07</stdDelvwhDt>
-    <customPrdYn>N</customPrdYn>
-    <importNo></importNo>
-    <importLicense></importLicense>
-    <globalSaleYn>N</globalSaleYn>
-    <prdWeight></prdWeight>
-    <prdUsNm></prdUsNm>
-    <prdCnNm></prdCnNm>
-    <prdJaNm></prdJaNm>
-    <isbn></isbn>
-    <isbn10></isbn10>
-    <issn></issn>
-    <cultureDeductionYn>N</cultureDeductionYn>
-    <publicationDate></publicationDate>
-    <authors></authors>
-    <translators></translators>
-    <illustrators></illustrators>
-    <artists></artists>
-    <dutyUsePeriod></dutyUsePeriod>
-</product>
+<result>
+<title>Interpark Product API</title>
+<description>상품 등록</description>
+<item>
+<prdStat>01</prdStat>
+<shopNo>0000100000</shopNo>
+<omDispNo>001510101003</omDispNo>
+<prdNm>
+<![CDATA[ 리본펀칭프레임장지갑 P361 ]]>
+</prdNm>
+<hdelvMafcEntrNm>
+<![CDATA[ 쌈지 ]]>
+</hdelvMafcEntrNm>
+<prdOriginTp>
+<![CDATA[ 베트남 ]]>
+</prdOriginTp>
+<taxTp>01</taxTp>
+<ordAgeRstrYn>N</ordAgeRstrYn>
+<saleStatTp>03</saleStatTp>
+<saleUnitcost>1000000</saleUnitcost>
+<saleLmtQty>99</saleLmtQty>
+<saleStrDts>20080625</saleStrDts>
+<saleEndDts>99991231</saleEndDts>
+<proddelvCostUseYn>Y</proddelvCostUseYn>
+<prdBasisExplanEd>
+<![CDATA[ *<br><br><link href='http://www.fashionplus.co.kr/mall/include/styles_ip.css' type='text/css' rel='stylesheet' /><table width="710" border="0" cellspacing="0" cellpadding="0"><tr><td width="710" height="35"><img src="http://img.fashionplus.co.kr/mall/images/title_goods03.gif" border="0"></td></tr><tr><td height="100" valign="top"><div class="goods"><br><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_02.GIF"><p><table width="602" border="0" cellpadding="0"cellspacing="0" ><tr><td><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF" width="100"></td><td><TABLE WIDTH="502" align="center" border="0" cellpadding="0"cellspacing="0" ><TR><TD align="center" width="502" height="552"><IMG src="http://admin.ssamziemall.co.kr/new_image/item/1G7SWL0357/M2/1G7SWL0357M2_0_C.jpg"></TD></TR><tr><td height="5" ><img src="http://shop.ssamzie.com/img/product/Method_space.gif" height="5"></td></tr><TR><TD align="center" width="502" height="552"><IMG src="http://admin.ssamziemall.co.kr/new_image/item/1G7SWL0357/M2/1G7SWL0357M2_1_C.jpg"></TD></TR><tr><td height="5" ><img src="http://shop.ssamzie.com/img/product/Method_space.gif" height="5"></td></tr><TR><TD align="center" width="502" height="552"><IMG src="http://admin.ssamziemall.co.kr/new_image/item/1G7SWL0357/M2/1G7SWL0357M2_2_C.jpg"></TD></TR><tr><td height="5" ><img src="http://shop.ssamzie.com/img/product/Method_space.gif" height="5"></td></tr><TR><TD align="center" width="502" height="552"><IMG src="http://admin.ssamziemall.co.kr/new_image/item/1G7SWL0357/M2/1G7SWL0357M2_3_C.jpg"></TD></TR><tr><td height="5" ><img src="http://shop.ssamzie.com/img/product/Method_space.gif" height="5"></td></tr><TR><TD align="center" width="502" height="552"><IMG src="http://admin.ssamziemall.co.kr/new_image/item/1G7SWL0357/M2/1G7SWL0357M2_4_C.jpg"></TD></TR></table></td></tr></table><P><font color="#515151" size="2"><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_01.GIF"><br><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF"><b>상품명</b><br><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF">[1G7SWL0357M2]리본 펀칭 프레임 장지갑<P><font color="#515151" size="2"><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF"><b>디자인특성 및 상세설명</b><br>매장과 동시 판매되므로 조기품절될 수 있습니다<br>리본 펀칭 디테일이 들어간 프레임 스타일의 쭈글 에나멜 장지갑<p><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF"><b>소재</b><br><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF">소가죽외<p><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF"><b>원산지</b><br><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF">베트남<p><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF"><b>사이즈</b><br><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF">(가로*세로)195*90mm<p><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF"><b>관리방법</b><br><img src="http://admin.ssamziemall.co.kr/new_image/item/spec/061016_spec_space.GIF">화기와 물기에 주의. 젖었을 경우 마른수건으로 닦고 그늘에서 건조. 제품에 부착 </td></tr></table><br><br></font><br><br><font color="red" size="5">▶ 면제 배송료 : 2,500원 (고객단순변심 반품시 소급부과됩니다.) <br><br>▶ 반품 택배비 : 2,500원</font><br><br><font color="blue" size="3"> ---> 반품택배비는 현대택배 이용시에만 해당되며 타 택배사 이용시 추가운임이 발생될 수 있습니다.</font><br><br><br><br>반품택배지주소 : 경기광주시실촌면수양리 57-4 진리/딸기<br><br><Br><br><img src ='http://img.fashionplus.co.kr/mall/interpark/IP_notice.jpg' with=800 height=790 > ]]>
+</prdBasisExplanEd>
+<zoomImg>
+<![CDATA[ http://img.fashionplus.co.kr/mall/assets/product_img/2205/plg2205_P3614.jpg ]]>
+</zoomImg>
+<prdPostfix>
+<![CDATA[ ]]>
+</prdPostfix>
+<prdKeywd>
+<![CDATA[ 쌈지,진리,장지갑,지갑 ]]>
+</prdKeywd>
+<brandNm>
+<![CDATA[ gjili ]]>
+</brandNm>
+<entrPoint>10000</entrPoint>
+<perordRstrQty>5</perordRstrQty>
+<optPrirTp>01</optPrirTp>
+<selOptName>타입,사이즈</selOptName>
+<prdOption>
+<![CDATA[ {A타입<55,66,77>수량<10,20,30>추가금액<100,200,300>옵션코드<0-1,0-2,0-3>사용여부<Y,Y,Y>}{B타입<95,100,105>수량<10,20,30>추가금액<400,500,600>옵션코드<0-95,0-100,0-105>사용여부<Y,Y,Y>} ]]>
+</prdOption>
+<addOption>
+<![CDATA[ {가방케이스<블랙>금액<500>옵션코드<add-A>}{머플러<화이트>금액<1000>옵션코드<add-C>} ]]>
+</addOption>
+<addQtyUseYn>Y</addQtyUseYn>
+<delvCost>0</delvCost>
+<delvAmtPayTpCom>02</delvAmtPayTpCom>
+<delvCostApplyTp>02</delvCostApplyTp>
+<freedelvStdCnt>0</freedelvStdCnt>
+<spcaseEd>
+<![CDATA[ ]]>
+</spcaseEd>
+<intfreeInstmStrDts/>
+<intfreeInstmEndDts/>
+<listInstmMonths/>
+<pointmUseYn>N</pointmUseYn>
+<ippSubmitYn>Y</ippSubmitYn>
+<originPrdNo>2550440</originPrdNo>
+<shopDispInfo>
+<![CDATA[ ]]>
+</shopDispInfo>
+<prdrtnCostUseYn>Y</prdrtnCostUseYn>
+<rtndelvCost>2500</rtndelvCost>
+<abroadBsYn>Y</abroadBsYn>
+<prdCertStatus>
+<![CDATA[ Y ]]>
+</prdCertStatus>
+<prdCertDetail>
+<certInfo>
+<certKind>
+<![CDATA[ 0101 ]]>
+</certKind>
+<certNo>
+<![CDATA[ B044H228-0001 ]]>
+</certNo>
+</certInfo>
+<certInfo>
+<certKind>
+<![CDATA[ 0102 ]]>
+</certKind>
+<certNo>
+<![CDATA[ SU7041-3007K ]]>
+</certNo>
+</certInfo>
+<certInfo>
+<certKind>
+<![CDATA[ 0403 ]]>
+</certKind>
+<certNo/>
+</certInfo>
+</prdCertDetail>
+<prdinfoNoti>
+<info>
+<infoSubNo>
+<![CDATA[ 0201 ]]>
+</infoSubNo>
+<infoCd>I</infoCd>
+<infoTx>
+<![CDATA[ 송아지가죽 ]]>
+</infoTx>
+</info>
+<info>
+<infoSubNo>
+<![CDATA[ 0202 ]]>
+</infoSubNo>
+<infoCd>I</infoCd>
+<infoTx>
+<![CDATA[ 진밤, 검정 ]]>
+</infoTx>
+</info>
+<info>
+<infoSubNo>
+<![CDATA[ 0203 ]]>
+</infoSubNo>
+<infoCd>I</infoCd>
+<infoTx>
+<![CDATA[ 수량 ]]>
+</infoTx>
+</info>
+<info>
+<infoSubNo>
+<![CDATA[ 0204 ]]>
+</infoSubNo>
+<infoCd>I</infoCd>
+<infoTx>
+<![CDATA[ 해당없음 ]]>
+</infoTx>
+</info>
+<info>
+<infoSubNo>
+<![CDATA[ 0205 ]]>
+</infoSubNo>
+<infoCd>I</infoCd>
+<infoTx>
+<![CDATA[ N ]]>
+</infoTx>
+</info>
+<info>
+<infoSubNo>
+<![CDATA[ 0206 ]]>
+</infoSubNo>
+<infoCd>I</infoCd>
+<infoTx>
+<![CDATA[ 건조시 그늘에서 건조 ]]>
+</infoTx>
+</info>
+<info>
+<infoSubNo>
+<![CDATA[ 0207 ]]>
+</infoSubNo>
+<infoCd>I</infoCd>
+<infoTx>
+<![CDATA[ 품질보증표시준수 ]]>
+</infoTx>
+</info>
+<info>
+<infoSubNo>
+<![CDATA[ 0208 ]]>
+</infoSubNo>
+<infoCd>I</infoCd>
+<infoTx>
+<![CDATA[ 1588-1555 ]]>
+</infoTx>
+</info>
+</prdinfoNoti>
+</item>
+</result>
